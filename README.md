@@ -2,5 +2,5 @@
 
 #### 扩展名对应的MIME类型
 
-[MIME](./mime.json);
+[mime.json](./mime.json)
 
